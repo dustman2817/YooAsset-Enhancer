@@ -1,0 +1,17 @@
+# IDE相关
+.idea/
+.vs/
+.vsconfig
+
+# 项目文件
+*.csproj
+*.sln
+*.user
+
+# Unity生成的文件夹
+Bundles/
+Library/
+Logs/
+obj/
+Temp/
+UserSettings/

@@ -1,0 +1,13 @@
+{
+  "name": "com.dustman.yooasset.enhancer",
+  "displayName": "YooAsset Enhancer",
+  "description": "The tuyoogame yooasset enhancer. The source code needs to be modified to make this software package run properly.",
+  "version": "2.1.2",
+  "unity": "2022.3",
+  "author": {
+    "name": "dustman2817@outlook.com"
+  },
+  "dependencies": {
+    "com.tuyoogame.yooasset": "2.1.2"
+  }
+}

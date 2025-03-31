@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 07a82cc5fb2941c68c573b15a96c8cbc, type: 3}
+  m_Name: AssetBundleBuildProfileScriptable
+  m_EditorClassIdentifier: 
+  m_PackageName: AAA-Package
+  m_PackageVersion: 111
+  m_BuildMode: 2
+  m_BuildOutputRoot: 
+  m_BuildinFileRoot: 
+  m_EnableSharePackRule: 1
+  m_VerifyBuildingResult: 1
+  m_FileNameStyle: 0
+  m_BuildinFileCopyOption: 0
+  m_BuildinFileCopyParams: 
+  m_EncryptionServiceName: EncryptionNone
+  m_CompressOption: 0
+  m_DisableWriteTypeTree: 0
+  m_IgnoreTypeTreeChanges: 1
+  m_WriteLinkXML: 1
+  m_CacheServerHost: 
+  m_CacheServerPort: 0

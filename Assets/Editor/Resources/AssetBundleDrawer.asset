@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6768a52ebd3d4bbd94ad3948b74b25d1, type: 3}
+  m_Name: AssetBundleDrawer
+  m_EditorClassIdentifier: 
+  m_BuildPipelineColors:
+  - Key: BuiltinBuildPipeline
+    Color: {r: 0.5, g: 1, b: 0.5, a: 1}
+  - Key: ScriptableBuildPipeline
+    Color: {r: 1, g: 1, b: 0.5, a: 1}
+  - Key: RawFileBuildPipeline
+    Color: {r: 0.8, g: 0.5, b: 1, a: 1}
+  m_IgnoreRuleNameColors:
+  - Key: NormalIgnoreRule
+    Color: {r: 0.5, g: 1, b: 1, a: 1}
+  - Key: RawFileIgnoreRule
+    Color: {r: 1, g: 0.5, b: 1, a: 1}
+  m_ActiveRuleColors:
+  - Key: EnableGroup
+    Color: {r: 0.5, g: 1, b: 0.5, a: 1}
+  - Key: DisableGroup
+    Color: {r: 1, g: 0.5, b: 0.5, a: 1}
+  m_CollectorTypeColors:
+  - Key: None
+    Color: {r: 1, g: 0.5, b: 0.5, a: 1}
+  - Key: MainAssetCollector
+    Color: {r: 0.5, g: 1, b: 0.5, a: 1}
+  - Key: StaticAssetCollector
+    Color: {r: 1, g: 1, b: 0.5, a: 1}
+  - Key: DependAssetCollector
+    Color: {r: 0.8, g: 0.5, b: 1, a: 1}
+  m_AddressRuleColors:
+  - Key: AddressDisable
+    Color: {r: 1, g: 0.6, b: 0.6, a: 0.5019608}
+  m_PackRuleColors:
+  - Key: PackSeparately
+    Color: {r: 0.5, g: 1, b: 0.5, a: 1}
+  - Key: PackCollector
+    Color: {r: 1, g: 0.3, b: 0.6, a: 1}
+  - Key: PackDirectory
+    Color: {r: 1, g: 0.8, b: 0.5, a: 1}
+  m_FilterRuleColors:
+  - Key: CollectNone
+    Color: {r: 1, g: 0.5, b: 0.5, a: 1}
+  - Key: CollectAll
+    Color: {r: 0.5, g: 1, b: 0.5019608, a: 1}
+  - Key: CollectVideo
+    Color: {r: 1, g: 0.5, b: 1, a: 1}
+  - Key: CollectScene
+    Color: {r: 1, g: 1, b: 0.5, a: 1}
+  m_EncryptionServiceColors:
+  - Key: EncryptionNone
+    Color: {r: 1, g: 0.5, b: 0.5, a: 1}
+  - Key: EncryptionOffset
+    Color: {r: 0.5, g: 1, b: 0.5, a: 1}
